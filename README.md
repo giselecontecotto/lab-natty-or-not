@@ -23,17 +23,44 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+**🌌 Sua Próxima Aventura: Surfe Interestelar no Planeta Aqualis! 🌊**
+
+Prepare-se para uma experiência além da imaginação! No **Planeta Aqualis**, as águas cristalinas e as ondas perfeitas são o palco para o surfe mais incrível do universo. Aqui, você surfa ao lado de criaturas exóticas como os **golfinhos-luminares**, que iluminam as noites com seu brilho único, e as **raiastrelas**, que dançam entre as ondas com você.
+
+🪐 **Por que escolher Aqualis?**
+
+✨ **Vista de Marte de tirar o fôlego**  
+A partir da costa de Aqualis, o planeta vermelho é seu cenário constante. Imagine relaxar em praias bioluminescentes enquanto Marte brilha no horizonte – um pôr do sol que nenhum outro lugar pode oferecer!
+
+✨ **Aventura e Conforto**  
+Explore a biodiversidade única de Aqualis durante o dia e, à noite, aproveite acomodações de luxo em cúpulas flutuantes, equipadas com tecnologia de gravidade zero para um sono perfeito.
+
+✨ **Atividades Intergalácticas**  
+- Aulas de surfe com instrutores alienígenas amigáveis.  
+- Passeios subaquáticos com veículos de observação de fauna extraterrestre.  
+- Jantares temáticos com culinária cósmica gourmet.
+
+🌠 **Ofertas Especiais!**  
+Reserve agora e ganhe um passeio exclusivo de hoverboard aquático ao lado dos majestosos **tubarões-estelares**, criaturas pacíficas e fascinantes de Aqualis!
+
+🚀 **Partidas semanais diretamente da sua órbita!**  
+
+📩 **Entre em contato com nossa equipe de reservas intergalácticas** e embarque na viagem que você jamais esquecerá. O Planeta Aqualis está esperando por você! 🌌
+
+🛸 **Aqualis. O destino onde seus sonhos ganham gravidade.**
+
 ## 📒 Descrição
-Breve descrição do seu projeto
+Crie uma propaganda fictícia sobre uma viagem ao Planeta Aqualis, destacando experiências únicas como surfe ao lado de animais exóticos (golfinhos-luminares e raiastrelas) e uma vista deslumbrante de Marte. Inclua elementos como praias bioluminescentes, acomodações de luxo em cúpulas flutuantes, e atividades como aulas de surfe, passeios subaquáticos e jantares cósmicos. Finalize com um convite empolgante e destaque a exclusividade da viagem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Sora
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei uma propaganda no ChatGPT e com o resultado usei para criar um video
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma propaganda em vídeo
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -46,6 +73,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+https://sora.com
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
